@@ -1,6 +1,6 @@
 # OverdriveGuitarPedal
 Images and process of my overdrive guitar pedal.
-The PCB is a WIP.
+
 
 # Summary
 I wanted to combine one of my hobbies with what I'm studying, so naturally a guitar pedal is a great gateway into design. This board was inspired by the Boss OD-1 pedal. The circuit design was all done in LTSpice with calculations to support the gains and behaviour we see in the circuit. The behaviour we expect in a overdrive pedal is a boost of the input signal with soft clipping to ensure a warm, yet powerful tone. The reason why everything is through-hole rather than surface mount is **a.** saves me money from buying more parts and **b.** soldering is a lot easier.
